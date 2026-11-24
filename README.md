@@ -2,7 +2,7 @@
 
 This repository contains all course materials, lab exercises, and assignments for the **Machine Learning (ML)** course for **Computer Engineering (CPE)** students at **Rajamangala University of Technology Thanyaburi (RMUTT)**.
 
-**Student:** [ใส่ชื่อ-นามสกุล / รหัสนักศึกษา]  
+**Student:** [ธนกฤต สีมอด / 116810400563-6]  
 **Section:** Sec 2 (2/2569)
 
 ## Course Contents
